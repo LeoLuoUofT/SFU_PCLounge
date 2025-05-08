@@ -1,3 +1,3 @@
 HOW TO CREATE:
 
-pyinstaller --onefile pclounge.py
+pyinstaller --onefile --noconsole --icon=myico.ico pclounge.py
